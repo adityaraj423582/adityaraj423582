@@ -1,12 +1,11 @@
 <img src="https://github.com/Ayan-thecodeking/Ayan-thecodeking/blob/main/Hello.gif" /><h1 align="center"> Aditya Raj Singh 👋👋</h1>
 <h3 align="center">A passionate  developer from India</h3>
 <img src="https://github.com/Ayan-thecodeking/Ayan-thecodeking/blob/main/forkit.gif" />
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityaraj423582&label=Profile%20views&color=0e75b6&style=flat" alt="adityaraj423582" /> </p>
 
 <p align="left"> <a href="https://twitter.com/__adityaraj__" target="blank"><img src="https://img.shields.io/twitter/follow/__adityaraj__?logo=twitter&style=for-the-badge" alt="__adityaraj__" /></a> </p>
 
-- 🔭 I’m currently working on **Java Developer**
+- 🔭 I’m currently CSE student studying in **IEM KOLKATA**
 
 - 🌱 I’m currently learning **React Native , Java**
 
