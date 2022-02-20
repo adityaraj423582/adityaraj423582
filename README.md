@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Aditya Raj Singh</h1>
+<img src="https://github.com/Ayan-thecodeking/Ayan-thecodeking/blob/main/Hello.gif" /><h1 align="center"> Aditya Raj Singh 👋👋</h1>
 <h3 align="center">A passionate  developer from India</h3>
+<img src="https://github.com/Ayan-thecodeking/Ayan-thecodeking/blob/main/forkit.gif" />
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityaraj423582&label=Profile%20views&color=0e75b6&style=flat" alt="adityaraj423582" /> </p>
