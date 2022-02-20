@@ -11,6 +11,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/adityaraj423582/adityaraj423582](https://github.com/adityaraj423582/adityaraj423582)
 
+- 📝 I regularly write articles on [https://www.blogger.com/u/1/blog/posts/3351522127553649294](https://www.blogger.com/u/1/blog/posts/3351522127553649294)
+
 - 💬 Ask me about **Android , JAVA**
 
 - 📫 How to reach me **adityaraj423582@gmail.com**
