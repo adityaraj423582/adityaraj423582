@@ -1,7 +1,10 @@
 
 <div align='center'>
+  
+  
+![Capture](https://user-images.githubusercontent.com/92306429/214215616-cd6557a9-c2c8-4e9f-bed6-3f5053f7e85b.PNG)
 
-<img src="programmer.svg" alt="drawing" width="400"/>
+
 
 # Hi, I'm Aditya Raj! 👋
 a
