@@ -22,7 +22,7 @@ a
 
 # Socials 📱
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-7079fa?style=flat&logo=About.me&logoColor=white)](https://ivuschua.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivus-chua/)  [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ivuschua@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7079fa?style=flat&logo=About.me&logoColor=white)](https://adityarajsingh.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-raj-singh-268636200//)  [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:adityaraj423582@gmail.com)
 
 # Github Stats 📈
 
