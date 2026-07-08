@@ -16,16 +16,22 @@
 
 <br/>
 
-## 👋 About Me
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=48&section=header&text=About%20Me&fontSize=26&fontColor=ffffff&fontAlignY=58" />
+
+<br/>
 
 <div align="center">
 
-> ### *I build systems where machine learning has to **commit to a decision under uncertainty** —*
-> ### *a limit order book, an autonomous agent, or a live pipeline.*
-
-</div>
+### *“I build systems where machine learning has to **commit to a decision under uncertainty** —*
+### *a limit order book, an autonomous agent, or a live pipeline.”*
 
 <br/>
+
+<img src="https://img.shields.io/badge/M.Tech_Applied_Math-IIT_Roorkee-0A66C2?style=for-the-badge&labelColor=1B2838" />
+<img src="https://img.shields.io/badge/Research-ACM_ICAIF_Submission-8A2BE2?style=for-the-badge&labelColor=1B2838" />
+<img src="https://img.shields.io/badge/Focus-Quant_·_GenAI_·_ML-EE4C2C?style=for-the-badge&labelColor=1B2838" />
+
+</div>
 
 <table>
 <tr>
@@ -48,32 +54,56 @@
 
 <br/>
 
-### 🎯 What I Work On
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=48&section=header&text=What%20I%20Work%20On&fontSize=26&fontColor=ffffff&fontAlignY=58" />
+
+<br/>
 
 <table>
 <tr>
 <td align="center" width="25%">
-<br/>📈<br/><br/><b>Quant & Trading</b><br/><br/>
-<sub>Limit-order-book analytics<br/>Vectorized backtesting<br/>Multi-Agent RL · GARCH<br/>Monte Carlo · VaR</sub><br/><br/>
+<br/><h3>📈 Quant & Trading</h3>
+<img src="https://img.shields.io/badge/Limit_Order_Books-0A66C2?style=flat-square&labelColor=0A66C2" /><br/>
+<img src="https://img.shields.io/badge/Vectorized_Backtesting-1268C4?style=flat-square" /><br/>
+<img src="https://img.shields.io/badge/Multi--Agent_RL-1B6EC6?style=flat-square" /><br/>
+<img src="https://img.shields.io/badge/GARCH_Volatility-2374C8?style=flat-square" /><br/>
+<img src="https://img.shields.io/badge/Monte_Carlo_·_VaR-2C7ACA?style=flat-square" />
+<br/><br/>
 </td>
 <td align="center" width="25%">
-<br/>🤖<br/><br/><b>GenAI & Agents</b><br/><br/>
-<sub>RAG pipelines<br/>LangChain / LangGraph<br/>Multi-agent orchestration<br/>FastAPI services</sub><br/><br/>
+<br/><h3>🤖 GenAI & Agents</h3>
+<img src="https://img.shields.io/badge/RAG_Pipelines-6A0DAD?style=flat-square" /><br/>
+<img src="https://img.shields.io/badge/LangChain-7215B0?style=flat-square" /><br/>
+<img src="https://img.shields.io/badge/LangGraph-7A1DB4?style=flat-square" /><br/>
+<img src="https://img.shields.io/badge/Multi--Agent_Orchestration-8225B8?style=flat-square" /><br/>
+<img src="https://img.shields.io/badge/FastAPI_Services-8A2DBC?style=flat-square" />
+<br/><br/>
 </td>
 <td align="center" width="25%">
-<br/>🧠<br/><br/><b>Machine Learning</b><br/><br/>
-<sub>PyTorch · Stable-Baselines3<br/>XGBoost / LightGBM<br/>GARCH / ARIMA<br/>CNN anomaly detection</sub><br/><br/>
+<br/><h3>🧠 Machine Learning</h3>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square" /><br/>
+<img src="https://img.shields.io/badge/Stable--Baselines3-E8482B?style=flat-square" /><br/>
+<img src="https://img.shields.io/badge/XGBoost_·_LightGBM-E24430?style=flat-square" /><br/>
+<img src="https://img.shields.io/badge/GARCH_·_ARIMA-DC4035?style=flat-square" /><br/>
+<img src="https://img.shields.io/badge/CNN_Anomaly_Detection-D63C3A?style=flat-square" />
+<br/><br/>
 </td>
 <td align="center" width="25%">
-<br/>🌐<br/><br/><b>Full-Stack</b><br/><br/>
-<sub>React / Next.js / TS<br/>Node.js microservices<br/>PostgreSQL / Redis<br/>Docker / AWS / K8s</sub><br/><br/>
+<br/><h3>🌐 Full-Stack</h3>
+<img src="https://img.shields.io/badge/React_·_Next.js-0E9F6E?style=flat-square" /><br/>
+<img src="https://img.shields.io/badge/TypeScript-13A574?style=flat-square" /><br/>
+<img src="https://img.shields.io/badge/Node.js_Microservices-18AB7A?style=flat-square" /><br/>
+<img src="https://img.shields.io/badge/PostgreSQL_·_Redis-1DB180?style=flat-square" /><br/>
+<img src="https://img.shields.io/badge/Docker_·_AWS_·_K8s-22B786?style=flat-square" />
+<br/><br/>
 </td>
 </tr>
 </table>
 
 <br/>
 
-## 🚀 Featured Projects
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=48&section=header&text=Featured%20Projects&fontSize=26&fontColor=ffffff&fontAlignY=58" />
+
+<br/>
 
 <table>
 <tr>
@@ -152,7 +182,9 @@
 
 <br/>
 
-## 🛠️ Tech Arsenal
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=48&section=header&text=Tech%20Arsenal&fontSize=26&fontColor=ffffff&fontAlignY=58" />
+
+<br/>
 
 <div align="center">
 
@@ -186,7 +218,9 @@
 
 <br/>
 
-## 📊 GitHub Analytics
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=48&section=header&text=GitHub%20Analytics&fontSize=26&fontColor=ffffff&fontAlignY=58" />
+
+<br/>
 
 <div align="center">
 
@@ -228,13 +262,29 @@
 
 <br/>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=48&section=header&text=Words%20I%20Live%20By&fontSize=26&fontColor=ffffff&fontAlignY=58" />
+
+<br/>
+
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+### *“I don’t wait for certainty — I out-work it.*
+### *Talent sets the ceiling; discipline, curiosity, and relentless reps decide how high I actually climb.*
+### *Every model I train and every system I ship is one more rep against the odds.”*
 
-<br/><br/>
+<br/>
 
-<sub>💼 Open to AI/ML engineering, quant research, and full-stack roles — <a href="mailto:adityaraj423582@gmail.com">email</a> · <a href="https://www.linkedin.com/in/aditya-raj-singh-268636200/">LinkedIn</a></sub>
+<img src="https://img.shields.io/badge/—%20Aditya%20Raj%20Singh-0A66C2?style=for-the-badge&labelColor=1B2838" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Open_to-AI%2FML_·_Quant_·_Full--Stack_roles-2C7ACA?style=for-the-badge&labelColor=1B2838" />
+
+<sub>📫 Reach me at <a href="mailto:adityaraj423582@gmail.com">adityaraj423582@gmail.com</a> · <a href="https://www.linkedin.com/in/aditya-raj-singh-268636200/">LinkedIn</a></sub>
 
 </div>
 
