@@ -16,26 +16,60 @@
 
 <br/>
 
-## 🧠 About Me
+## 👋 About Me
 
-```python
-class AdityaRajSingh:
-    def __init__(self):
-        self.education = {
-            "M.Tech": "Applied Mathematics & Scientific Computing @ IIT Roorkee (2024–2026)",
-            "B.Tech": "Computer Science & Engineering @ IEM Kolkata",
-        }
-        self.research = "CNN-GARCH + Multi-Agent RL for algorithmic trading — submitted to ACM ICAIF"
-        self.obsession = "systems where ML has to commit to a decision — order books, agents, live pipelines"
+<div align="center">
 
-    def current_stack(self):
-        return {
-            "quant":     ["limit-order-book analytics", "vectorized backtesting", "KDB+/q", "Monte Carlo & VaR"],
-            "genai":     ["RAG pipelines", "LangChain / LangGraph", "multi-agent orchestration", "FastAPI"],
-            "ml":        ["PyTorch", "Stable-Baselines3", "XGBoost / LightGBM", "GARCH / ARIMA"],
-            "fullstack": ["React / Next.js / TypeScript", "Node.js", "PostgreSQL / Redis", "Docker / AWS / K8s"],
-        }
-```
+> ### *I build systems where machine learning has to **commit to a decision under uncertainty** —*
+> ### *a limit order book, an autonomous agent, or a live pipeline.*
+
+</div>
+
+<br/>
+
+<table>
+<tr>
+<td width="30%" align="center">🎓&nbsp;&nbsp;<b>Education</b></td>
+<td width="70%">M.Tech, <b>Applied Mathematics & Scientific Computing</b> · IIT Roorkee &nbsp;<code>2024–2026</code><br/>B.Tech, Computer Science & Engineering · IEM Kolkata</td>
+</tr>
+<tr>
+<td align="center">📄&nbsp;&nbsp;<b>Research</b></td>
+<td>CNN-GARCH + Multi-Agent RL for algorithmic trading — submitted to <b>ACM ICAIF</b></td>
+</tr>
+<tr>
+<td align="center">🔭&nbsp;&nbsp;<b>Working on</b></td>
+<td>Low-latency HFT agents · offline RL · agentic GenAI pipelines</td>
+</tr>
+<tr>
+<td align="center">💬&nbsp;&nbsp;<b>Ask me about</b></td>
+<td>market microstructure · RL for trading · RAG & multi-agent orchestration</td>
+</tr>
+</table>
+
+<br/>
+
+### 🎯 What I Work On
+
+<table>
+<tr>
+<td align="center" width="25%">
+<br/>📈<br/><br/><b>Quant & Trading</b><br/><br/>
+<sub>Limit-order-book analytics<br/>Vectorized backtesting<br/>Multi-Agent RL · GARCH<br/>Monte Carlo · VaR</sub><br/><br/>
+</td>
+<td align="center" width="25%">
+<br/>🤖<br/><br/><b>GenAI & Agents</b><br/><br/>
+<sub>RAG pipelines<br/>LangChain / LangGraph<br/>Multi-agent orchestration<br/>FastAPI services</sub><br/><br/>
+</td>
+<td align="center" width="25%">
+<br/>🧠<br/><br/><b>Machine Learning</b><br/><br/>
+<sub>PyTorch · Stable-Baselines3<br/>XGBoost / LightGBM<br/>GARCH / ARIMA<br/>CNN anomaly detection</sub><br/><br/>
+</td>
+<td align="center" width="25%">
+<br/>🌐<br/><br/><b>Full-Stack</b><br/><br/>
+<sub>React / Next.js / TS<br/>Node.js microservices<br/>PostgreSQL / Redis<br/>Docker / AWS / K8s</sub><br/><br/>
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -122,13 +156,31 @@ class AdityaRajSingh:
 
 <div align="center">
 
-**Languages & ML**
+#### 📊 Quant & Scientific Computing
 
-<img src="https://skillicons.dev/icons?i=python,cpp,ts,js,java,kotlin,pytorch,tensorflow,sklearn,opencv&perline=10" />
+<img src="https://skillicons.dev/icons?i=python,cpp,r,matlab&perline=10" />
 
-**Web, Data & Infra**
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+![statsmodels](https://img.shields.io/badge/statsmodels-3E5F8A?style=for-the-badge)
+![KDB+/q](https://img.shields.io/badge/KDB%2B%2Fq-005C9C?style=for-the-badge)
+![Bloomberg](https://img.shields.io/badge/Bloomberg-000000?style=for-the-badge&logo=bloomberg&logoColor=orange)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi,flask,graphql,postgres,mongodb,redis,docker,kubernetes,aws,git,linux&perline=14" />
+#### 🧠 Machine Learning & AI
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&perline=10" />
+
+![Stable-Baselines3](https://img.shields.io/badge/Stable--Baselines3-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge)
+![LightGBM](https://img.shields.io/badge/LightGBM-9ACD32?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+#### 🌐 Web, Backend & Infra
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,fastapi,flask,graphql,postgres,mongodb,redis,docker,kubernetes,aws,git,linux&perline=16" />
 
 </div>
 
