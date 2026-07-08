@@ -41,30 +41,80 @@ class AdityaRajSingh:
 
 ## 🚀 Featured Projects
 
+<table>
+<tr>
+<td width="50%" valign="top">
 <div align="center">
-
-<a href="https://github.com/adityaraj423582/algo-trading-marl">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adityaraj423582&repo=algo-trading-marl&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/adityaraj423582/Bloomberg-Terminal-Clone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adityaraj423582&repo=Bloomberg-Terminal-Clone&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/adityaraj423582/application-automation">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adityaraj423582&repo=application-automation&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/adityaraj423582/quant-simulations-and-risk">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adityaraj423582&repo=quant-simulations-and-risk&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/adityaraj423582/lemke">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adityaraj423582&repo=lemke&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/adityaraj423582/subtitle-toolkit">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adityaraj423582&repo=subtitle-toolkit&theme=tokyonight&hide_border=true" />
-</a>
-
+<h3><a href="https://github.com/adityaraj423582/algo-trading-marl">📈 Algo Trading with Multi-Agent RL</a></h3>
+<p>CNN-GARCH volatility signals feeding MAPPO multi-agent trading agents — evidence from NSE & NASDAQ. The codebase behind my <b>ACM ICAIF</b> paper submission.</p>
+<p>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/Stable--Baselines3-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/GARCH-1C3C3C?style=flat-square" />
+</p>
 </div>
+</td>
+<td width="50%" valign="top">
+<div align="center">
+<h3><a href="https://github.com/adityaraj423582/Bloomberg-Terminal-Clone">📊 OpenTerminalUI</a></h3>
+<p>A Bloomberg-style trading terminal UI — live market data, charting, screening, backtesting, and alerts, all in the browser.</p>
+<p>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Charting-FF6F00?style=flat-square" />
+</p>
+</div>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<div align="center">
+<h3><a href="https://github.com/adityaraj423582/application-automation">🤖 Application Automation Agent</a></h3>
+<p>A job-application agent: discovers postings, matches them to resume variants, generates answers with an LLM, and autofills forms via Playwright — with every real submission gated behind explicit human approval.</p>
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
+<img src="https://img.shields.io/badge/LLM-7079fa?style=flat-square" />
+</p>
+</div>
+</td>
+<td width="50%" valign="top">
+<div align="center">
+<h3><a href="https://github.com/adityaraj423582/quant-simulations-and-risk">🎲 Quant Simulations & Risk</a></h3>
+<p>Simulating markets with Geometric Brownian Motion and Monte Carlo methods, plus risk metrics like Value at Risk (VaR).</p>
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Monte%20Carlo-1C3C3C?style=flat-square" />
+</p>
+</div>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<div align="center">
+<h3><a href="https://github.com/adityaraj423582/lemke">♟️ Lemke's Algorithm</a></h3>
+<p>A pure-Python implementation of Lemke's algorithm for linear complementarity problems and bimatrix game equilibria — with a pygambit-verified test suite.</p>
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Game%20Theory-5B4638?style=flat-square" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+</p>
+</div>
+</td>
+<td width="50%" valign="top">
+<div align="center">
+<h3><a href="https://github.com/adityaraj423582/subtitle-toolkit">🎬 Subtitle Toolkit</a></h3>
+<p>Free browser-based subtitle tools — SRT/VTT converter, time shifter, and merger. Everything runs client-side, no uploads.</p>
+<p>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Client--side-2EAD33?style=flat-square" />
+</p>
+</div>
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -88,26 +138,25 @@ class AdityaRajSingh:
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=adityaraj423582&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaraj423582&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adityaraj423582&theme=tokyonight" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=adityaraj423582&theme=tokyonight&hide_border=true" />
+<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adityaraj423582&theme=tokyonight" />
+<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adityaraj423582&theme=tokyonight" />
+
+<br/><br/>
+
+<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adityaraj423582&theme=tokyonight" />
+<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adityaraj423582&theme=tokyonight&utcOffset=5.5" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=adityaraj423582&theme=tokyonight&hide_border=true" />
 
 <br/><br/>
 
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=adityaraj423582&theme=tokyo-night&hide_border=true&area=true" />
-
-</div>
-
-<br/>
-
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=adityaraj423582&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" />
 
 </div>
 
