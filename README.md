@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=70A5FD&center=true&vCenter=true&width=700&lines=Building+AI+that+makes+decisions+under+uncertainty;GenAI+%26+Multi-Agent+Systems+Engineer;Quantitative+Research+%26+Algorithmic+Trading;M.Tech+Applied+Mathematics+%40+IIT+Roorkee" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=70A5FD&center=true&vCenter=true&width=700&lines=   Building+AI+that+makes+decisions+under+uncertainty;GenAI+%26+Multi-Agent+Systems+Engineer;Quantitative+Research+%26+Algorithmic+Trading;M.Tech+Applied+Mathematics+%40+IIT+Roorkee" alt="Typing SVG" />
 
 <br/>
 
